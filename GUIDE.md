@@ -65,6 +65,8 @@ Bản dịch hiện trên TV cùng lúc với điện thoại. Chọn hãng TV (
 
 *The same subtitles can show on your TV (Android TV app, LG or Samsung browser) or in OBS as a browser source. The link appears once a session has started.*
 
+Chi tiết từng hãng · Per brand: [Android TV và TV khác](TV.md) · [LG](LG.md) · [Samsung](SAMSUNG.md)
+
 ## 6. Tùy chỉnh phụ đề và ngôn ngữ · Subtitle style and languages
 
 <p>

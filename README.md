@@ -5,6 +5,7 @@
 *Chơi game tiếng Anh, đọc phụ đề tiếng Việt.* Ứng dụng đọc câu thoại tiếng Anh trên màn hình game và hiện phụ đề đã dịch ngay trên điện thoại, đè lên game và trên TV.
 
 - Step-by-step guide with screenshots: **[GUIDE.md](GUIDE.md)** (Hướng dẫn từng bước)
+- Subtitles on your TV: [TV.md](TV.md) · [LG](LG.md) · [Samsung](SAMSUNG.md)
 - Privacy policy: https://consoletranslate.asia/privacy/ · Terms: https://consoletranslate.asia/terms/ · Website: https://consoletranslate.asia/
 
 <p>
